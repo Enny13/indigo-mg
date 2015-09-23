@@ -1,4 +1,4 @@
-indigo-mg - Indigo Open Molecule Generator
+indigo-mg - Indigo Molecule Generator
 
 Introduction
 ========
